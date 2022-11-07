@@ -3,3 +3,5 @@ articles/
 models/
 .python-version
 uninstall.txt
+
+.DS_Store
