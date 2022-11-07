@@ -1,0 +1,20 @@
+scrimy,adj,scrimy objects
+motormouth,noun_adj,[[PERSON]] is a motormouth
+mislead,verb,mislead [[PERSON]]
+deplorable,adj,deplorable objects
+inauspicious,adj,inauspicious objects
+resentful,adj,[[PERSON]] is resentful
+inapposite,adj,situation is apposite
+thunderous,adj,thunderous voices
+malevolent,adj,邪悪な,malevolent spirits
+
+dismissive,adj,軽蔑的な,a dismissive gesture
+
+
+
+
+paranormal;科学的には説明できない
+miserable;惨めな
+
+['bad', 'terrible', 'horrible', 'disappointed', 'awful', 'ugly', 'miserable', 'negative', 'fearful', 'disagreeable', 'harsh', 'angry', 'resentful', 'improper', 'ill', 'upset', 'humble', 'deny', 'fear']
+['good', 'love', 'better', 'pretty', 'fabulous', 'happy', 'superb', 'amazing', 'nice', 'greatest', 'brilliant', 'great', 'prefer', 'decent', 'worthy', 'perfect', 'healthy', 'courteous', 'happy', 'charming']
